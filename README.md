@@ -14,7 +14,7 @@ Anyone is free to use, modify, port, or convert these tweaks for any purpose, in
 
 ## Compiled IPA Files
 
-I do not plan to provide compiled IPA files, since there are already several projects available, such as **Lightsaber** and **Lara**.
+I do not plan to provide compiled IPA files, as there are already several projects available for that purpose, such as **Lightsaber**, [**Cyanide**](https://github.com/zeroxjf/cyanide-ios) — which already includes most of these tweaks — and [**Lara**](https://github.com/rooootdev/lara).
 
 ## Base Project
 
